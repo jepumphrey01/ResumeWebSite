@@ -1,2 +1,2 @@
 # ResumeWebSite
-A web page that hosts my resume
+A web site built with django and python that hosts my resume
